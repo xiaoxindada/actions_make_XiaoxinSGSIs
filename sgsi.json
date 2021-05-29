@@ -1,10 +1,7 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/20.9.4/miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip",
-  "rom_name": "miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip.zip",
-  "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://cdn-test-ota.blackshark.com/DLT-A0/20210507105110-darklighter-ota-signed_by_xiaomi_2bcb1105a058e6a258859cbf64cb86a1.zip",
+  "rom_name": "20210507105110-darklighter-ota-signed_by_xiaomi_2bcb1105a058e6a258859cbf64cb86a1.zip",
+  "pack_sgsi": "XiaoxinSGSIs_JOYUI.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
