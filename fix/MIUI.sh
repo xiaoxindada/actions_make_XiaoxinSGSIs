@@ -6,6 +6,8 @@ echo "
 支持的ROM:
 
 MIUI
+ 
+ JOYUI
 
 Flyme
 
@@ -19,6 +21,6 @@ ZUI
 --------------------
 "
 
- ./miui.sh
+ ./JOYUI.sh
  echo "修复完成"
  cd ../
